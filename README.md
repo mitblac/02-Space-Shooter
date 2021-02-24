@@ -1,17 +1,31 @@
-# Exercise-02d-Godot-Template
-Exercise for MSCH-C220, 15 February 2021
+# 02-Space-Shooter
 
-A Godot Project Template, for use in future projects.
+created for MSCH-C220, 2/24/21
+
+A simple space shooter with boppin' music, explosions, and three enemy ship types.
+
+The Orange, Blue, and Green planets have formed an alliance against your home planet- the Red Planet. Take to the cosmos in your humble blaster ship and destroy as many of the attacking Orange, Blue, and Green ships as you can to defend your homeland! Watch out for deadly asteroids.
 
 ## Implementation
+
 Built using Godot 3.2.3
-Includes WASD mappings (up, left, down, right) and escape to quit.
+
+Background sourced from https://pixabay.com/photos/space-deep-space-galaxy-nebula-2638126/
+
+Explosion images sourced from https://limofeus.itch.io/pixel-simulations?download
+
+Music sourced from https://jonathan-so.itch.io/creatorpack
+
+Various assets sourced from https://www.kenney.nl/assets/space-shooter-redux
 
 ## References
-None
+
+N/A
 
 ## Future Development
-None
 
-## Created by 
+N/A
+
+## Created by
+
 Mitchell Black
